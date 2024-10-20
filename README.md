@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqdsharma&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqdsharma" /> </p>
 
-- 🔭 I’m currently working on [Email Inspector](https://github.com/TanishqDsharma/EmailInspector)
+-  🔭 I’m currently working as a **SOC Analyst** at **Zscaler**, responding to daily alerts (Critical/High/Medium), conducting  **threat hunts** on Malware Servers, APTs, Phishing Campaigns etc , and building detailed **playbooks** and **runbooks** for cybersecurity operations. 
 
-- 🌱 I’m currently learning **Snort and Assembly(x86 and 864)**
+- 🌱 I’m currently learning **Web3 Security**. I have been learning **Web3 development** and **Smart Contract Testing** using **Foundry**, also **Shadow Auditing** ethereum smart contracts.
 
-- 👯 I’m looking to collaborate on **Web3 projects**
+- 👯 I’m looking to collaborate on **Web3 Audits**
 
-- 💬 Ask me about **AWS,Penetration Testing and Computers Networking**
+- 💬 Ask me about **SOC, AWS and Smart Contract Audits**
 
 - 📫 How to reach me **tanishqsharma612@gmail.com**
 
