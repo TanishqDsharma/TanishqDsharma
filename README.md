@@ -19,8 +19,49 @@
 <a href="https://instagram.com/tanishq542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanishq542" height="30" width="40" /></a>
 </p>
 
+<br>
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Incident Response" src="https://img.shields.io/badge/-Incident_Response-D9534F?style=flat-square&logo=incident-response&logoColor=white" />
+  <img alt="Threat Hunt" src="https://img.shields.io/badge/-Threat_Hunt-FFA500?style=flat-square&logo=security&logoColor=white" />
+  <img alt="Log Analysis" src="https://img.shields.io/badge/-Log_Analysis-1DA1F2?style=flat-square&logo=loggly&logoColor=white" />
+  <img alt="CrowdStrike" src="https://img.shields.io/badge/-CrowdStrike-FF4D00?style=flat-square&logo=crowdstrike&logoColor=white" />
+  <img alt="ELK" src="https://img.shields.io/badge/-ELK-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img alt="Cloud Incident Response" src="https://img.shields.io/badge/-Cloud_Incident_Response-FF9900?style=flat-square&logo=cloud&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img alt="Foundry" src="https://img.shields.io/badge/-Foundry-F66A0D?style=flat-square&logo=foundry&logoColor=white" />
+  <img alt="Technical Content Writing" src="https://img.shields.io/badge/-Technical_Content_Writing-4B0082?style=flat-square&logo=writex&logoColor=white" />
+  <img alt="Smart Contract Auditing" src="https://img.shields.io/badge/-Smart_Contract_Auditing-FF6347?style=flat-square&logo=auditing&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Windows Terminal" src="https://img.shields.io/badge/-Windows_Terminal-4EAA25?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Malware Analysis" src="https://img.shields.io/badge/-Malware_Analysis-FF4C4C?style=flat-square&logo=security&logoColor=white" />
+  <img alt="OSINT" src="https://img.shields.io/badge/-OSINT-4E9F3D?style=flat-square&logo=search&logoColor=white" />
+  <img alt="Attack Surface Management" src="https://img.shields.io/badge/-Attack_Surface_Management-FF9900?style=flat-square&logo=security&logoColor=white" />
+  <img alt="SIEM" src="https://img.shields.io/badge/-SIEM-0084FF?style=flat-square&logo=security&logoColor=white" />
+</p>
+
+<br>
+
+
+## Certifications
+
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_%E2%80%93_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6ebdcf17-ba60-48c3-9814-54bd0f66547f/public_url) 
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified_%3A_Azure_Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://www.credly.com/badges/79a7d6dc-badb-4164-aa77-d18d346eba2a/public_url) 
+[![AWS Certified Security – Specialty](https://img.shields.io/badge/AWS_Certified_Security_%E2%80%93_Specialty-FF4F00?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/a3875fcc-78de-40c5-882e-a6c44043173d/public_url) 
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d52f3031-d27e-447f-b1de-400462714616/public_url) 
+[![CompTIA A+ ce Certification](https://img.shields.io/badge/CompTIA_A%2B_ce_Certification-5B8DFE?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/d86be720-a70b-427d-83a0-4f182f5ed065/public_url) 
+[![Certified Ethical Hacker (CEH)](https://img.shields.io/badge/Certified_Ethical_Hacker-0072C6?style=flat-square&logo=certified-ethical-hacker&logoColor=white)](https://www.credly.com/badges/example-ceh-url)
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqdsharma&show_icons=true&locale=en&layout=compact" alt="tanishqdsharma" /></p>
 
