@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqdsharma&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqdsharma" /> </p>
 
--  🔭 I’m currently working as a **SOC Analyst** at **Zscaler**, responding to daily alerts (Critical/High/Medium), conducting  **threat hunts** on Malware Servers, APTs, Phishing Campaigns etc , and building detailed **playbooks** and **runbooks** for cybersecurity operations. 
+-  🔭 I’m currently working as a **SPECIALIST, CSIRT** at **Coinbase**, responding to daily alerts (Critical/High/Medium), conducting  **threat hunts** on Malware Servers, APTs, Phishing Campaigns etc , and building detailed **playbooks** and **runbooks** for cybersecurity operations. 
 
 - 🌱 I’m currently learning **Web3 Security**. I have been learning **Web3 development** and **Smart Contract Testing** using **Foundry**, also **Shadow Auditing** ethereum smart contracts.
 
